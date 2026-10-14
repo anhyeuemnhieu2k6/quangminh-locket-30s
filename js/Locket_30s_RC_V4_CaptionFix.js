@@ -59,7 +59,7 @@
       "title": "Lên đời Gold rồi nha 😎",
       "subtitle": "Thử popup có ảnh riêng",
       "feature_set": [{
-        "title": "Đã kích hoạt Gold!",
+        "title": "QUANG MINH DZAIII QUAAAA",
         "body": "Popup đang thử hiển thị ảnh xe bạn gửi. Đồng thời giữ thử nghiệm 30 giây, video album và âm thanh.",
         "imageURL": repoImage,
         "imageUrl": repoImage,
